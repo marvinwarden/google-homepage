@@ -1,0 +1,125 @@
+.logo-image {
+    
+    padding-top: 250px;
+    text-align: center;
+}
+
+.search-bar {
+    text-align: center;
+    padding-top: 20px;
+}
+
+input {
+    width: 582px;
+    height: 44px;
+    border-radius: 25px;
+    
+}
+
+.avatar {
+
+    position: absolute;
+    top: 10px;
+    right: 27px;
+}
+
+.boy {
+    
+    width: 40px;
+    border-radius: 50%;
+    
+}
+
+.top-links {
+    position: relative;
+    float: right;
+    
+}
+
+.main-links {
+    padding-top: 10px;
+    padding-left: 10px;
+}
+
+nav {
+    
+    display: inline-block;
+    padding-right: 100px;
+    padding-left: 10px;
+}
+
+.search-btn {
+
+    text-align: center;
+    padding: 18px;
+      
+}
+
+.buttons {
+    background-color: #f2f2f2;
+    margin: 11px 4px;
+    padding: 0px 16px;
+    line-height: 32px;
+    border-radius: 4px;
+    border: 1px #f2f2f2
+    border-style: 
+    font-size: 14px;
+}
+
+.links {
+    
+   
+
+}
+
+.links-left {
+    
+    position: fixed;
+    bottom: 27px;
+    
+    
+}
+
+.links-right {
+
+    position: absolute;
+    bottom: 27px;
+    right: 27px;
+    
+}
+
+.links-left-bottom {
+    
+    
+    text-align: left;
+    padding-left: 27px;
+    
+}
+
+.links-right-bottom {
+
+    text-align: right;
+    padding-left: 27px;
+    
+}
+
+.south {
+    padding-left: 27px;
+    position: absolute;
+    bottom: 54px;
+    
+}
+
+.languages {
+    display: inline-flexbox;
+    text-align: center;
+    
+}
+
+.lang-space{
+    padding-left: 5px;
+}
+
+
+
+
